@@ -1,0 +1,354 @@
+---
+version: 3
+domain: ''
+created_by: ''
+seed_examples:
+  - context: |-
+      What Is Artificial Intelligence?
+      AI is often represented by various related terms: machine learning, deep
+      learning, natural language processing, predictive analytics, and so on. All
+      of these terms point to a future in which our platforms and systems are
+      smart enough to learn from our interactions and data, not only to help us
+      with what we ask, but also to anticipate our needs, taking care of mundane
+      and forgotten tasks and reminding us of important ones. AI can connect the
+      various nodes of our lives (home, work, travel) into one experience that
+      moves seamlessly with us from house to car to office. Much of that
+      experience comes through our phones. Within a few years, AI will be infused
+      in everything digital.
+      As consumers, we are already using AI without even realizing it. Google
+      harnesses AI to autocomplete search queries, predicting what you are
+      searching for with great accuracy and without human involvement. Facebook
+      news feeds and Amazon product recommendations are tailored for you via
+      machine-learning algorithms. Self-driving cars apply various AI techniques
+      to avoid collisions and traffic congestion. All of these consumer apps have
+      trained consumers to expect more from businesses: The new standard for
+      every customer interaction is a smart, fast, seamless customer experience
+      engagement.
+    questions_and_answers:
+      - question: What are some subfields of Artificial Intelligence?
+        answer: Some subfields of AI mentioned are machine learning, deep learning,
+          and natural language processing.
+      - question: How does AI enhance user experience in digital platforms?
+        answer: AI anticipates user needs, handles mundane tasks, and provides a seamless
+          experience across various digital platforms, from phones to self-driving
+          cars.
+      - question: Can you give examples of AI usage in everyday consumer applications?
+        answer: Examples include Google's AI-powered search autocomplete, personalized
+          Facebook news feeds, and Amazon's AI-driven product recommendations.
+  - context: |-
+      What Is Artificial Intelligence?
+      At a high level, AI is both understanding historical data and applying what
+      is learned to current contexts to make predictions. This has the potential
+      to make every business 'smarter.'
+      Today, every company faces an imperative to integrate AI into the fabric of
+      their business in order to succeed. Until now, however, AI has largely been
+      out of reach for businesses. The high cost to implement AI solutions,
+      combined with a shortage of data scientists and incomplete data, has made
+      it challenging for all but a few companies.
+      That's where we come in. In 1999, Salesforce launched the first-ever cloud
+      CRM platform, making customer relationship management accessible to
+      businesses large and small. Since then, we've grown into a complete
+      Customer Success Platform, with solutions across sales, service, marketing,
+      community, analytics, commerce, IoT, and apps. Now, we're making our
+      platform even smarter with Salesforce Einstein. Designed to enable
+      companies large and small to be smarter and more predictive about their
+      customers, Salesforce Einstein discovers insights, predicts outcomes,
+      recommends next steps, and automates tasks for business users - all while
+      getting smarter and smarter along the way.
+    questions_and_answers:
+      - question: What is the primary function of Artificial Intelligence (AI)?
+        answer: AI primarily involves understanding historical data and applying that
+          knowledge to current contexts for predictive purposes.
+      - question: What challenges have traditionally hindered businesses from implementing
+          AI solutions?
+        answer: High costs, scarcity of data scientists, and incomplete data have
+          made AI implementation difficult for most businesses.
+      - question: How does Salesforce aim to make AI more accessible to businesses
+          with its platform, Salesforce Einstein?
+        answer: Salesforce Einstein is designed to enable companies of all sizes to
+          gain insights, predict outcomes, recommend actions, and automate tasks,
+          continuously learning and improving over time.
+  - context: |-
+      Glossary: How to Talk About AI
+      - Artificial Intelligence (AI) is the concept of having machines 'think
+      like humans' - in other words, perform tasks like reasoning, planning,
+      learning, and understanding language. While no one is expecting parity with
+      human intelligence today or in the near future, AI has big implications in
+      how we live our lives. The brains behind artificial intelligence is a
+      technology called machine learning, which is designed to make our jobs
+      easier and more productive.
+      - Machine Learning is the core driver of AI, and involves computers
+      learning from data with minimal programming. achieve the outcome on its own
+      by feeding it data - for example, personalized recommendations on Amazon
+      and Netflix. (Learn more here.) Machine learning is a broad term that
+      encompasses related AI techniques, including:
+      - Deep Learning which uses complex algorithms that mimic the brain's neural
+      network to learn a domain recognition in photos.
+      - Essentially, instead of programming rules for a machine, you program the
+      desired outcome and train the machine to with little or no human
+      supervision. Consumer apps like Google Photos use deep learning to power
+      face
+    questions_and_answers:
+      - question: What is Artificial Intelligence (AI) and what are its implications?
+        answer: AI is the concept of machines 'thinking like humans' by performing
+          tasks such as reasoning, planning, learning, and understanding language.
+          It has significant implications for our daily lives, though full human-like
+          intelligence is not expected soon.
+      - question: How does Machine Learning contribute to AI and what is its method?
+        answer: Machine Learning is the core technology driving AI, enabling computers
+          to learn from data with minimal programming. It achieves outcomes by being
+          fed data, like personalized recommendations on platforms such as Amazon
+          and Netflix.
+      - question: What are Deep Learning and its application in AI?
+        answer: Deep Learning is a subset of Machine Learning that uses complex algorithms
+          to mimic the brain's neural networks for domain recognition, such as identifying
+          objects in photos. Google Photos uses Deep Learning for its face recognition
+          feature.
+  - context: |-
+      Glossary: How to Talk About AI
+      - Natural Language Processing (NLP) uses machine learning techniques to
+      find patterns within large data sets in order to recognize natural
+      language. One application of NLP is sentiment analysis, where algorithms
+      might look for patterns in social media posts to understand how customers
+      feel about a specific brand or product.
+      - Big Data is the raw fuel of AI - large amounts of structured or
+      unstructured information that provide the inputs for surfacing patterns and
+      making predictions.
+      Internet of Things (IoT) is a network of billions of digitally connected
+      devices, from toasters to cars to houses and jet engines, that collect and
+      exchange data and can communicate with one another to better serve users.
+      Predictive Analytics is a branch of advanced analytics that is used to make
+      predictions about unknown future events, based on patterns in historical
+      data. You might see this in marketing offers that become more relevant to
+      you each time you take action (or don't) on an email offer.
+      5
+    questions_and_answers:
+      - question: What is Natural Language Processing (NLP) and what is one of its
+          applications?
+        answer: NLP uses machine learning to find patterns in language data, and one
+          application is sentiment analysis, which gauges public opinion from social
+          media posts.
+      - question: How does Big Data contribute to AI systems?
+        answer: Big Data serves as the foundation for AI, providing vast structured
+          or unstructured information that AI uses to identify patterns and make predictions.
+      - question: What is the Internet of Things (IoT) and how does it function?
+        answer: IoT is a vast interconnected network of devices, from home appliances
+          to vehicles, that gather and share data, enabling them to communicate and
+          enhance user experience.
+  - context: |-
+      Glossary: How to Talk About AI
+      In the beginning, these were very simple problems. One of the earliest
+      computing prototypes, sketched out by Belgian thinker Paul Otlet in 1934,
+      'would allow people to search and browse through millions of interlinked
+      documents, images, audio and video files,' according to The New York Times
+      . It was an early vision of the internet with a poetic name: the
+      'Mundaneum,' a means of storing and processing huge amounts of 'mundane'
+      data. The premise of computing is to do what the human mind is designed not
+      to do: remember every little detail, storing it so that every data point
+      can be easily accessed when it's needed. (The human brain, by contrast, is
+      designed to focus its processing power on what's important, as Nobel Prize-
+      winning economist Daniel Kahneman explains in his book Thinking, Fast and
+      Slow .)
+      From the beginning, though, we dreamed of computers that could do more than
+      the mundane. In 1956, Prof. John McCarthy coined the term 'artificial
+      intelligence,' describing a world in which machines could 'solve the kinds
+      of problems now reserved for humans.'
+      But in order to move from simple computing to true AI, computers needed
+      three things:
+    questions_and_answers:
+      - question: What was Paul Otlet's early computing prototype called and what
+          was its purpose?
+        answer: Paul Otlet's early computing prototype was called the 'Mundaneum,'
+          which aimed to enable users to search and browse through millions of interlinked
+          documents, images, audio, and video files.
+      - question: How does the human brain's function contrast with the premise of
+          computing, as described in the paragraph?
+        answer: The human brain is designed to prioritize important information, while
+          computing is intended to remember every detail and make it easily accessible.
+      - question: When and by whom was the term 'artificial intelligence' coined,
+          and what was its intended meaning?
+        answer: In 1956, Prof. John McCarthy coined the term 'artificial intelligence,'
+          envisioning machines capable of solving problems currently reserved for
+          human intelligence.
+  - context: |-
+      Here's a classic example. Let's say you want to train a machine to
+      recognize pictures of cats.
+      So you feed it two data points:
+      It might conclude that a cat is a furry thing with pointy ears, almond-
+      shaped eyes, whiskers, and paws. But what happens when it comes across this
+      image?
+      JStone / Shutterstock.com
+      This is a cat, but without the telltale pointy ears or paws.
+      Using only two images to 'teach' a machine how to identify a cat probably
+      wouldn't equip that machine to accurately classify Garfield as such.
+      However, feeding it billions of different images of cats - in nearly every
+      color, size, and position possible - would make it much more likely to
+      correctly classify an image like this:
+    questions_and_answers:
+      - question: What is the initial problem with training a machine to recognize
+          cats using only two data points?
+        answer: The machine might only learn superficial features like fur, pointy
+          ears, and paws, failing to recognize cats without those characteristics,
+          like Garfield.
+      - question: What could be done to improve a machine's ability to
+          identify cats?
+        answer: The machine should be trained with billions of diverse cat images,
+          varying in color, size, and position, to enhance its recognition capabilities.
+      - question: What makes the suggested method of training more effective for cat
+          recognition?
+        answer: This extensive training with numerous cat images ensures the machine
+          can identify cats even if they lack certain typical features, like pointy
+          ears or visible paws.
+  - context: |-
+      Or what about this one?
+      catwalker / Shutterstock.com
+      Early data models lacked the volume of clean data required to perfect their
+      data models and effectively 'learn.' Only recently, with the surge of data
+      readily available via the internet, do the models have access to the data
+      they need to get smarter. In 2009 , Stanford University computer scientist
+      Andrew Ng and Google Fellow Jeff Dean led a Google research team to create
+      a massive 'neural network' modeled after the human brain, comprising
+      thousands of processors and more than 1 billion connections. Then, they fed
+      the machine random images of cats, pulled from millions of online videos.
+      By identifying commonalities and filtering the images through its brainlike
+      neural network, the machine essentially taught itself how to identify an
+      image of a cat. It was an astounding achievement for AI - and one that
+      wouldn't have been possible just a few years earlier, without easy access
+      to those millions of thumbnail images.
+    questions_and_answers:
+      - question: What was the limitation faced by early data models?
+        answer: Early data models lacked the volume of clean data required to perfect
+          their models and effectively 'learn'.
+      - question: When and by whom was a massive neural network created at Google?
+        answer: In 2009, Stanford University computer scientist Andrew Ng and Google
+          Fellow Jeff Dean led a Google research team to create this network.
+      - question: How did the Google neural network learn to identify images of cats?
+        answer: The machine was fed random images of cats from millions of online
+          videos, identifying commonalities and teaching itself through its neural
+          network.
+  - context: |-
+      What AI Means for Business
+      Remember how computers have gotten smaller and smarter? They've also gotten
+      cheaper, resulting in a surge of smart devices that are generating a
+      growing body of business data that, in turn, can power machine learning.
+      The Internet of Things encompasses an entire world of digitally connected
+      devices - toaster, toothbrushes, thermostats, lightbulbs, cars, and much
+      more - that are now being networked, talking to each other, and businesses,
+      and consumers. We're talking about a lot of connected things: 6 billion of
+      them that, says Gartner, will be requesting support by 2018. Those billions
+      of connected things mean huge volumes of customer data indeed, 90 percent
+      of the world's data was created in the last 12 months alone.
+      Businesses need to be smart about the way they gather, digest, and apply
+      that data, which is the lifeblood of IoT - provided it can be properly
+      used.
+    questions_and_answers:
+      - question: How has the development of computers impacted the rise of AI in
+          business?
+        answer: Computers have become smaller, smarter, and cheaper, leading to an
+          increase in smart devices that generate vast amounts of business data, which
+          is essential for powering machine learning and AI.
+      - question: What is the Internet of Things (IoT) and how many connected devices
+          are projected to need support by 2018 according to Gartner?
+        answer: The Internet of Things refers to a network of digitally connected
+          devices like home appliances, vehicles, etc., communicating with each other
+          and businesses. Gartner predicted that around 6 billion of these connected
+          devices would require support by 2018.
+      - question: How significant is the data generated by IoT devices for businesses,
+          and what percentage of the world's data was created in the last 12 months?
+        answer: The data generated by IoT devices is crucial for businesses, constituting
+          90% of the world's data, with the majority of it produced in the last 12
+          months.
+  - context: |-
+      What AI Means for Business
+      But the impact of AI doesn't stop there. Behind each of those devices, of
+      course, is a real customer - and the next generation of customers expects a
+      cohesive, intelligent experience every time they interact with a business.
+      When a delivery order is delayed, they expect to be contacted with an
+      updated ETA and a make-good offer - such as a $5 credit or free shipping on
+      their next order - without having to pick up the phone and talk to a
+      service agent. AI makes it possible to create an entire universe of
+      business apps to deliver smarter customer experiences across sales,
+      service, and marketing interactions.
+      For many businesses, however, AI has been largely out of reach.
+      Historically, companies have faced four key challenges when it comes to
+      adopting AI for business:
+      - Data
+      Expertise
+      - Infrastructure
+      - Context
+      13
+      Below, we'll explore how companies can address each of these challenges in
+      new ways.
+    questions_and_answers:
+      - question: What kind of customer experience does AI enable for businesses?
+        answer: AI enables businesses to provide a cohesive, intelligent experience
+          to customers, including automated updates and make-good offers for issues
+          like delayed deliveries.
+      - question: What are the main challenges businesses face when adopting AI?
+        answer: 'Businesses face four key challenges when adopting AI: data, expertise,
+          infrastructure, and context.'
+      - question: How does AI impact customer interactions across sales, service,
+          and marketing?
+        answer: AI allows businesses to create a universe of business apps that deliver
+          smarter customer experiences across sales, service, and marketing interactions.
+  - context: |-
+      The Context Challenge
+      For many businesses, AI may seem not only out of reach, but also
+      irrelevant. Popular culture has imagined AI in the image of R2D2 and C3PO,
+      rather than an essential component of modern business processes. Read on to
+      learn more about our vision for how AI will transform sales, service,
+      marketing, and IT by automating mundane tasks and empowering every human
+      employee to add more value.
+      AI for CRM: Everything You Need to Know
+      The result of un-analyzed, underleveraged data isn't just missed
+      opportunity. It's a significant failure to connect with modern consumers in
+      the way they expect (and demand). Currently, half of all business decisions
+      are made with incomplete information, which disconnects the business from
+      the product and, therefore, from the customer. For all the data customers
+      are creating, less than 1% is analyzed, such that 77% of customers say they
+      are not engaged with businesses.
+    questions_and_answers:
+      - question: Why do some businesses view AI as irrelevant?
+        answer: Some businesses view AI as irrelevant because popular culture has
+          portrayed AI in a non-business context, like in Star Wars, and they may
+          not see the immediate applicability of AI to their operations.
+      - question: What is the consequence of not leveraging data effectively in business
+          decisions?
+        answer: The consequence of not leveraging data effectively is missed opportunities
+          and a failure to connect with modern consumers, as half of business decisions
+          are made with incomplete information, leading to a disconnect between the
+          business and its customers.
+      - question: What percentage of customer-generated data is currently being analyzed
+          by businesses?
+        answer: Less than 1% of the data customers generate is currently being analyzed
+          by businesses, contributing to 77% of customers feeling unengaged with these
+          companies.
+  - context: |-
+      | | Executive Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 05 |
+      |---:|:------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------|
+      | 0 | Introduction: Businesses Race to Harness AI's Growing Potential . . . | 06 |
+      | 1 | Chapter 1 | Trust Is Job Number One as Customers Evaluate AI. . . |
+      | 2 | Spotlight: Expert Perspective on Ethics in AI . . . . . . . . . . . . . . . . . | 14 |
+      | 3 | Chapter 2 | Businesses Evaluate Their Data Foundations . . . . . . . . . |
+      | 4 | Spotlight: LLMs, Data, and the Build-Vs-Buy Conundrum . . . . . . | 19 |
+      | 5 | Chapter 3 | AI Use Cases Take Shape Across the Enterprise. . . . . . . |
+      | 6 | Chapter 4 | Workplace Skills and Policies Are Evolving for the AI Era |
+      | 7 | Spotlight: Expert Perspective on AI Guidelines for Employees . . | 29 |
+      | 8 | Additional Resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 30 |
+    questions_and_answers:
+      - question: What is the primary focus of the first chapter?
+        answer: The primary focus of the first chapter is 'Trust Is Job Number One
+          as Customers Evaluate AI.'
+      - question: Which chapter discusses expert perspective on
+          AI guidelines for employees?
+        answer: The chapter discussing expert perspective on AI guidelines for employees
+          is Chapter 7.
+      - question: What topic is addressed in Chapter 4 according to the provided information?
+        answer: Chapter 4 addresses 'Workplace Skills and Policies Are Evolving for
+          the AI Era.'
+document_outline: ''
+document:
+  repo: ''
+  commit: ''
+  patterns:
+    - ''

@@ -205,7 +205,7 @@ if __name__ == "__main__":
 
         input_dirs, output_dirs, table_dirs = data_collector.process(
             f"{Path(os.path.abspath('')).resolve().parents[0]}/scraped", 
-            f"{Path(os.path.abspath('')).resolve().parents[0]}/taxonomy/knowledge/research/gametheory",
+            f"{Path(os.path.abspath('')).resolve().parents[0]}/taxonomy/knowledge/modernization",
             f"{Path(os.path.abspath('')).resolve().parents[0]}/tables") 
 
         for input_dir, output_dir, table_dir in zip(input_dirs, output_dirs, table_dirs):
