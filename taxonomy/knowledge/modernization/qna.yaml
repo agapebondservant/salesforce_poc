@@ -1,109 +1,200 @@
 ---
 version: 3
-domain: ''
-created_by: ''
+domain: Modernization with AI
+created_by: oawofolu
 seed_examples:
   - context: |-
-      What Is Artificial Intelligence?
-      AI is often represented by various related terms: machine learning, deep
-      learning, natural language processing, predictive analytics, and so on. All
-      of these terms point to a future in which our platforms and systems are
-      smart enough to learn from our interactions and data, not only to help us
-      with what we ask, but also to anticipate our needs, taking care of mundane
-      and forgotten tasks and reminding us of important ones. AI can connect the
-      various nodes of our lives (home, work, travel) into one experience that
-      moves seamlessly with us from house to car to office. Much of that
-      experience comes through our phones. Within a few years, AI will be infused
-      in everything digital.
-      As consumers, we are already using AI without even realizing it. Google
-      harnesses AI to autocomplete search queries, predicting what you are
-      searching for with great accuracy and without human involvement. Facebook
-      news feeds and Amazon product recommendations are tailored for you via
-      machine-learning algorithms. Self-driving cars apply various AI techniques
-      to avoid collisions and traffic congestion. All of these consumer apps have
-      trained consumers to expect more from businesses: The new standard for
-      every customer interaction is a smart, fast, seamless customer experience
-      engagement.
+      By Salesforce Futures
+      Our inaugural issue of this magazine focused on possible futures where AI
+      agents transform how companies connect with their customers. In this issue,
+      we turn to agents in the enterprise and the potential they hold for a
+      wholesale reorganization of work. We invite you to envision a workplace
+      teeming with nextgeneration copilots, autonomous agents, and augmented
+      humans. How does it function? How does it feel for the human employees that
+      work in this environment? And what can we all learn from time-traveling
+      into such a future that we can bring back to improve the questions we ask
+      ourselves today?
+      The pace of AI progress offers one clue as to what might be in store. In
+      May, OpenAI launched GPT 4-omni, whose multi-modal capabilities and
+      flirtatious female voice drew immediate comparisons to the 2013 film Her
+      and its omniscient and overly-familiar personal assistant. Here at
+      Salesforce, The Einstein Enterprise vision is quickly becoming a reality,
+      including the launch of Agentforce, a platform for intelligent agents in
+      service, sales, commerce, and beyond.
     questions_and_answers:
-      - question: What are some subfields of Artificial Intelligence?
-        answer: Some subfields of AI mentioned are machine learning, deep learning,
-          and natural language processing.
-      - question: How does AI enhance user experience in digital platforms?
-        answer: AI anticipates user needs, handles mundane tasks, and provides a seamless
-          experience across various digital platforms, from phones to self-driving
-          cars.
-      - question: Can you give examples of AI usage in everyday consumer applications?
-        answer: Examples include Google's AI-powered search autocomplete, personalized
-          Facebook news feeds, and Amazon's AI-driven product recommendations.
+      - question: What is the focus of Salesforce Futures' inaugural issue?
+        answer: The inaugural issue of Salesforce Futures focused on possible futures
+          where AI agents transform how companies connect with their customers.
+      - question: What does the current issue of Salesforce Futures explore regarding
+          AI agents?
+        answer: The current issue explores the potential of AI agents for a wholesale
+          reorganization of work within enterprises, envisioning a workplace with
+          next-generation copilots, autonomous agents, and augmented humans.
+      - question: What recent development in AI technology is mentioned as an example
+          of rapid progress?
+        answer: OpenAI's launch of GPT 4-omni in May is cited as an example of rapid
+          AI progress, with its multi-modal capabilities and distinctive voice drawing
+          comparisons to the film Her.
   - context: |-
-      What Is Artificial Intelligence?
-      At a high level, AI is both understanding historical data and applying what
-      is learned to current contexts to make predictions. This has the potential
-      to make every business 'smarter.'
-      Today, every company faces an imperative to integrate AI into the fabric of
-      their business in order to succeed. Until now, however, AI has largely been
-      out of reach for businesses. The high cost to implement AI solutions,
-      combined with a shortage of data scientists and incomplete data, has made
-      it challenging for all but a few companies.
-      That's where we come in. In 1999, Salesforce launched the first-ever cloud
-      CRM platform, making customer relationship management accessible to
-      businesses large and small. Since then, we've grown into a complete
-      Customer Success Platform, with solutions across sales, service, marketing,
-      community, analytics, commerce, IoT, and apps. Now, we're making our
-      platform even smarter with Salesforce Einstein. Designed to enable
-      companies large and small to be smarter and more predictive about their
-      customers, Salesforce Einstein discovers insights, predicts outcomes,
-      recommends next steps, and automates tasks for business users - all while
-      getting smarter and smarter along the way.
+      By Salesforce Futures
+      At Salesforce Futures, our mission requires us not only to anticipate, but
+      also to imagine fleshed-out futures. This allows Salesforce and our
+      customers to identify the choices they might need to make to shape their
+      own destiny. Amara's law says that we overestimate the impact of
+      technological change in the short-term and underestimate it in the long-
+      term. When new technologies like generative AI are first introduced, we
+      apply them narrowly to existing processes, and their impact can seem
+      limited. It's only over a longer time-frame that innovators figure out how
+      to use the capabilities of the new tech to redesign larger systems.
+      To meet this challenge and bring possible futures to life where AI agents
+      are fundamentally changing the shape of work, we use three fictional
+      companies. They're at varying stages of AI transformation, and they operate
+      differently, due to factors like their age, past strategic choices, and the
+      intensity of competition they face. This reflects the reality we see in
+      today's business world. For example, while a few organizations are
+      aggressively preparing for an agent-driven future, others are just
+      beginning their exploration.
     questions_and_answers:
-      - question: What is the primary function of Artificial Intelligence (AI)?
-        answer: AI primarily involves understanding historical data and applying that
-          knowledge to current contexts for predictive purposes.
-      - question: What challenges have traditionally hindered businesses from implementing
-          AI solutions?
-        answer: High costs, scarcity of data scientists, and incomplete data have
-          made AI implementation difficult for most businesses.
-      - question: How does Salesforce aim to make AI more accessible to businesses
-          with its platform, Salesforce Einstein?
-        answer: Salesforce Einstein is designed to enable companies of all sizes to
-          gain insights, predict outcomes, recommend actions, and automate tasks,
-          continuously learning and improving over time.
+      - question: What is the mission of Salesforce Futures?
+        answer: The mission of Salesforce Futures is to anticipate and imagine detailed
+          futures, enabling Salesforce and its customers to make informed choices
+          about their future.
+      - question: How does Amara's Law relate to the impact of new technologies like
+          generative AI?
+        answer: According to Amara's Law, new technologies like generative AI are
+          initially underestimated in impact as they are applied narrowly to existing
+          processes, but their true impact becomes apparent over a longer time-frame
+          when innovators redesign larger systems.
+      - question: How does Salesforce Futures illustrate the current business landscape
+          regarding AI transformation?
+        answer: Salesforce Futures uses three fictional companies at different stages
+          of AI transformation to reflect today's business world, where some organizations
+          are aggressively preparing for an agent-driven future, while others are
+          just starting their exploration.
   - context: |-
-      Glossary: How to Talk About AI
-      - Artificial Intelligence (AI) is the concept of having machines 'think
-      like humans' - in other words, perform tasks like reasoning, planning,
-      learning, and understanding language. While no one is expecting parity with
-      human intelligence today or in the near future, AI has big implications in
-      how we live our lives. The brains behind artificial intelligence is a
-      technology called machine learning, which is designed to make our jobs
-      easier and more productive.
-      - Machine Learning is the core driver of AI, and involves computers
-      learning from data with minimal programming. achieve the outcome on its own
-      by feeding it data - for example, personalized recommendations on Amazon
-      and Netflix. (Learn more here.) Machine learning is a broad term that
-      encompasses related AI techniques, including:
-      - Deep Learning which uses complex algorithms that mimic the brain's neural
-      network to learn a domain recognition in photos.
-      - Essentially, instead of programming rules for a machine, you program the
-      desired outcome and train the machine to with little or no human
-      supervision. Consumer apps like Google Photos use deep learning to power
-      face
+      By Salesforce Futures
+      In part this is because the challenges AI brings are not only -drawing on
+      leadership expert Ronald Heifetz -technical ones, relatively easily defined
+      and where expert knowledge exists on how to solve them. Rather, AI is
+      generating more fundamental adaptive challenges, ambiguous and difficult to
+      define, let alone to think about solving.
+      Navigating adaptive challenges requires sophisticated leadership skills,
+      and many pitfalls lie in wait along the way. Our storytelling aims to
+      bridge the gap in imagination, creating a shared understanding that
+      provides a basis for identifying adaptive challenges.
+      Tech blogger Byrne Hobart has written of how AI 'places a much higher
+      premium on clarity and accuracy in internal communications.' We took
+      inspiration from Hobart, and the everyday experience of platforms like
+      Slack, to imagine a variety of communications artifacts that bring the
+      texture of these companies to life. These messages -generated both by
+      humans and machines -are directed through private and public channels to
+      diverse stakeholders. In aggregate, they convey the choices, practices, and
+      culture that make up how each company operates.
     questions_and_answers:
-      - question: What is Artificial Intelligence (AI) and what are its implications?
-        answer: AI is the concept of machines 'thinking like humans' by performing
-          tasks such as reasoning, planning, learning, and understanding language.
-          It has significant implications for our daily lives, though full human-like
-          intelligence is not expected soon.
-      - question: How does Machine Learning contribute to AI and what is its method?
-        answer: Machine Learning is the core technology driving AI, enabling computers
-          to learn from data with minimal programming. It achieves outcomes by being
-          fed data, like personalized recommendations on platforms such as Amazon
-          and Netflix.
-      - question: What are Deep Learning and its application in AI?
-        answer: Deep Learning is a subset of Machine Learning that uses complex algorithms
-          to mimic the brain's neural networks for domain recognition, such as identifying
-          objects in photos. Google Photos uses Deep Learning for its face recognition
-          feature.
+      - question: What type of challenges does AI primarily present, according to
+          leadership expert Ronald Heifetz?
+        answer: AI primarily presents adaptive challenges, which are ambiguous, difficult
+          to define, and require sophisticated leadership skills to navigate.
+      - question: How does the text suggest addressing the challenges posed by AI
+          in communications within companies?
+        answer: The text suggests using storytelling to create a shared understanding
+          of AI's adaptive challenges and imagining various communication artifacts,
+          inspired by platforms like Slack, to convey company choices, practices,
+          and culture.
+      - question: What role does clarity and accuracy in internal communications play
+          in the context of AI, as mentioned by tech blogger Byrne Hobart?
+        answer: Byrne Hobart emphasizes that AI places a higher premium on clarity
+          and accuracy in internal communications, which inspired the creation of
+          diverse communication artifacts in the text.
+  - context: |-
+      By Salesforce Futures
+      As you read along, you'll also notice that our companies still operate in a
+      context with human messiness, resistance, and unpredictability. It's easy
+      in depicting futures to ignore and smooth over such realities, what Nick
+      Foster called 'The Future Mundane'. In our futures, just as today, things
+      break, human tensions persist, and much of what surrounds us is not
+      recently-invented and new.
+      Speculations, like fictional companies and the future they inhabit, have a
+      rich history, including at earlier points in the futures lineage of our own
+      team, at Global Business Network, in Wired Magazine's 'Found Objects,' and
+      at Shell Scenarios. But they work best when complemented with some
+      analysis.
+      So, each company's story concludes with a section, 'Unpacking This Future',
+      that pulls together thematic highlights, explores the rationale of the
+      storytelling, and calls out broader implications for business. If you
+      prefer, you're welcome to switch the reading order and unpack each future
+      before you jump into it.
+    questions_and_answers:
+      - question: What is the main focus of the companies' futures?
+        answer: The main focus is on portraying the human messiness, resistance, and
+          unpredictability that persist in these futures, rather than presenting an
+          idealized, smooth version.
+      - question: What is the purpose of the 'Unpacking This Future' section in each
+          company's story?
+        answer: The 'Unpacking This Future' section summarizes key themes, explains
+          the reasoning behind the storytelling, and discusses broader business implications.
+      - question: What is the suggested reading approach for the company's future
+          stories?
+        answer: Readers are given the option to either follow the narrative sequence
+          or unpack each future's implications before diving into the story.
+  - context: |-
+      By Salesforce Futures
+      A brief note on terminology: In our previous issue, we addressed the
+      ongoing debate surrounding the term "agents" and its application in AI.
+      Since that issue, AI agents have only become more mainstream. However,
+      you'll observe that each fictional company uses different names for AI
+      entities, reflecting their unique orientations and intentions.
+      We're confident this issue will give you a richer understanding of AI
+      agents at work in the near future. Bridging the imagination gap between
+      present reality and potential futures is not easy, and not everything we
+      discuss may ultimately come true. That's okay. Our goal is not perfect
+      accuracy, but to catalyze better, more strategic conversations about the
+      adaptive challenges AI agents will surface. So dive in and think hard about
+      how your company might fare in these futures. (Hint, hint, the Closing
+      gives you some pointers.)
+      And, please, let us know your questions, objections, and most of all, the
+      ideas and conversations this issue sparks.
+      The Salesforce Futures Team
+    questions_and_answers:
+      - question: What is the main focus of the Salesforce Futures issue?
+        answer: The main focus is to provide a deeper understanding of AI agents and
+          their potential impact on the future, aiming to stimulate strategic discussions
+          about the challenges they may pose.
+      - question: Why does the issue mention the varying names for AI entities
+          used by fictional companies?
+        answer: The issue highlights the diverse naming of AI entities to reflect
+          each company's unique perspectives and objectives, emphasizing the adaptability
+          of AI agents.
+      - question: What is the ultimate goal of the Salesforce Futures Team in discussing
+          AI agents?
+        answer: The team's primary goal is not to ensure perfect accuracy but to encourage
+          better, more strategic conversations about the adaptive challenges AI agents
+          will bring.
+  - context: |-
+      NEW FEATURE L A U N C H
+      The winning feature this week comes from James Shin and our newest Vanner,
+      Alejandra Coles. Alejandra and James cooked up a better interface for our
+      automated inventory management system.
+      - As before, they incorporate computer vision to help track and categorize
+      items, but it just feels so much more intuitive. For example, there is a
+      'Get rid of it' feature that allows customers to sell or donate items they
+      don't want with the press of a button. 👉 Customers are going to love this
+      and I anticipate interest from reselling platforms.
+      Check it out. Run it through its paces. Talk to your customers and their
+      agents. Share feedback. Iterate. Refine. Repeat.
+    questions_and_answers:
+      - question: Who developed the new feature for the automated inventory management
+          system?
+        answer: The new feature was developed by James Shin and Alejandra Coles.
+      - question: What is the purpose of the 'Get rid of it' feature in the updated
+          inventory system?
+        answer: The 'Get rid of it' feature allows customers to sell or donate items
+          they no longer want with a single button press.
+      - question: What is the suggested approach for gathering feedback on the new
+          feature?
+        answer: The suggested approach is to run the feature through its paces, talk
+          to customers and their agents, and share feedback for iteration and refinement.
+  
   - context: |-
       Glossary: How to Talk About AI
       - Natural Language Processing (NLP) uses machine learning techniques to
@@ -121,7 +212,6 @@ seed_examples:
       predictions about unknown future events, based on patterns in historical
       data. You might see this in marketing offers that become more relevant to
       you each time you take action (or don't) on an email offer.
-      5
     questions_and_answers:
       - question: What is Natural Language Processing (NLP) and what is one of its
           applications?
@@ -171,159 +261,6 @@ seed_examples:
           envisioning machines capable of solving problems currently reserved for
           human intelligence.
   - context: |-
-      Here's a classic example. Let's say you want to train a machine to
-      recognize pictures of cats.
-      So you feed it two data points:
-      It might conclude that a cat is a furry thing with pointy ears, almond-
-      shaped eyes, whiskers, and paws. But what happens when it comes across this
-      image?
-      JStone / Shutterstock.com
-      This is a cat, but without the telltale pointy ears or paws.
-      Using only two images to 'teach' a machine how to identify a cat probably
-      wouldn't equip that machine to accurately classify Garfield as such.
-      However, feeding it billions of different images of cats - in nearly every
-      color, size, and position possible - would make it much more likely to
-      correctly classify an image like this:
-    questions_and_answers:
-      - question: What is the initial problem with training a machine to recognize
-          cats using only two data points?
-        answer: The machine might only learn superficial features like fur, pointy
-          ears, and paws, failing to recognize cats without those characteristics,
-          like Garfield.
-      - question: What could be done to improve a machine's ability to
-          identify cats?
-        answer: The machine should be trained with billions of diverse cat images,
-          varying in color, size, and position, to enhance its recognition capabilities.
-      - question: What makes the suggested method of training more effective for cat
-          recognition?
-        answer: This extensive training with numerous cat images ensures the machine
-          can identify cats even if they lack certain typical features, like pointy
-          ears or visible paws.
-  - context: |-
-      Or what about this one?
-      catwalker / Shutterstock.com
-      Early data models lacked the volume of clean data required to perfect their
-      data models and effectively 'learn.' Only recently, with the surge of data
-      readily available via the internet, do the models have access to the data
-      they need to get smarter. In 2009 , Stanford University computer scientist
-      Andrew Ng and Google Fellow Jeff Dean led a Google research team to create
-      a massive 'neural network' modeled after the human brain, comprising
-      thousands of processors and more than 1 billion connections. Then, they fed
-      the machine random images of cats, pulled from millions of online videos.
-      By identifying commonalities and filtering the images through its brainlike
-      neural network, the machine essentially taught itself how to identify an
-      image of a cat. It was an astounding achievement for AI - and one that
-      wouldn't have been possible just a few years earlier, without easy access
-      to those millions of thumbnail images.
-    questions_and_answers:
-      - question: What was the limitation faced by early data models?
-        answer: Early data models lacked the volume of clean data required to perfect
-          their models and effectively 'learn'.
-      - question: When and by whom was a massive neural network created at Google?
-        answer: In 2009, Stanford University computer scientist Andrew Ng and Google
-          Fellow Jeff Dean led a Google research team to create this network.
-      - question: How did the Google neural network learn to identify images of cats?
-        answer: The machine was fed random images of cats from millions of online
-          videos, identifying commonalities and teaching itself through its neural
-          network.
-  - context: |-
-      What AI Means for Business
-      Remember how computers have gotten smaller and smarter? They've also gotten
-      cheaper, resulting in a surge of smart devices that are generating a
-      growing body of business data that, in turn, can power machine learning.
-      The Internet of Things encompasses an entire world of digitally connected
-      devices - toaster, toothbrushes, thermostats, lightbulbs, cars, and much
-      more - that are now being networked, talking to each other, and businesses,
-      and consumers. We're talking about a lot of connected things: 6 billion of
-      them that, says Gartner, will be requesting support by 2018. Those billions
-      of connected things mean huge volumes of customer data indeed, 90 percent
-      of the world's data was created in the last 12 months alone.
-      Businesses need to be smart about the way they gather, digest, and apply
-      that data, which is the lifeblood of IoT - provided it can be properly
-      used.
-    questions_and_answers:
-      - question: How has the development of computers impacted the rise of AI in
-          business?
-        answer: Computers have become smaller, smarter, and cheaper, leading to an
-          increase in smart devices that generate vast amounts of business data, which
-          is essential for powering machine learning and AI.
-      - question: What is the Internet of Things (IoT) and how many connected devices
-          are projected to need support by 2018 according to Gartner?
-        answer: The Internet of Things refers to a network of digitally connected
-          devices like home appliances, vehicles, etc., communicating with each other
-          and businesses. Gartner predicted that around 6 billion of these connected
-          devices would require support by 2018.
-      - question: How significant is the data generated by IoT devices for businesses,
-          and what percentage of the world's data was created in the last 12 months?
-        answer: The data generated by IoT devices is crucial for businesses, constituting
-          90% of the world's data, with the majority of it produced in the last 12
-          months.
-  - context: |-
-      What AI Means for Business
-      But the impact of AI doesn't stop there. Behind each of those devices, of
-      course, is a real customer - and the next generation of customers expects a
-      cohesive, intelligent experience every time they interact with a business.
-      When a delivery order is delayed, they expect to be contacted with an
-      updated ETA and a make-good offer - such as a $5 credit or free shipping on
-      their next order - without having to pick up the phone and talk to a
-      service agent. AI makes it possible to create an entire universe of
-      business apps to deliver smarter customer experiences across sales,
-      service, and marketing interactions.
-      For many businesses, however, AI has been largely out of reach.
-      Historically, companies have faced four key challenges when it comes to
-      adopting AI for business:
-      - Data
-      Expertise
-      - Infrastructure
-      - Context
-      13
-      Below, we'll explore how companies can address each of these challenges in
-      new ways.
-    questions_and_answers:
-      - question: What kind of customer experience does AI enable for businesses?
-        answer: AI enables businesses to provide a cohesive, intelligent experience
-          to customers, including automated updates and make-good offers for issues
-          like delayed deliveries.
-      - question: What are the main challenges businesses face when adopting AI?
-        answer: 'Businesses face four key challenges when adopting AI: data, expertise,
-          infrastructure, and context.'
-      - question: How does AI impact customer interactions across sales, service,
-          and marketing?
-        answer: AI allows businesses to create a universe of business apps that deliver
-          smarter customer experiences across sales, service, and marketing interactions.
-  - context: |-
-      The Context Challenge
-      For many businesses, AI may seem not only out of reach, but also
-      irrelevant. Popular culture has imagined AI in the image of R2D2 and C3PO,
-      rather than an essential component of modern business processes. Read on to
-      learn more about our vision for how AI will transform sales, service,
-      marketing, and IT by automating mundane tasks and empowering every human
-      employee to add more value.
-      AI for CRM: Everything You Need to Know
-      The result of un-analyzed, underleveraged data isn't just missed
-      opportunity. It's a significant failure to connect with modern consumers in
-      the way they expect (and demand). Currently, half of all business decisions
-      are made with incomplete information, which disconnects the business from
-      the product and, therefore, from the customer. For all the data customers
-      are creating, less than 1% is analyzed, such that 77% of customers say they
-      are not engaged with businesses.
-    questions_and_answers:
-      - question: Why do some businesses view AI as irrelevant?
-        answer: Some businesses view AI as irrelevant because popular culture has
-          portrayed AI in a non-business context, like in Star Wars, and they may
-          not see the immediate applicability of AI to their operations.
-      - question: What is the consequence of not leveraging data effectively in business
-          decisions?
-        answer: The consequence of not leveraging data effectively is missed opportunities
-          and a failure to connect with modern consumers, as half of business decisions
-          are made with incomplete information, leading to a disconnect between the
-          business and its customers.
-      - question: What percentage of customer-generated data is currently being analyzed
-          by businesses?
-        answer: Less than 1% of the data customers generate is currently being analyzed
-          by businesses, contributing to 77% of customers feeling unengaged with these
-          companies.
-  - context: |-
       | | Executive Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 05 |
       |---:|:------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------|
       | 0 | Introduction: Businesses Race to Harness AI's Growing Potential . . . | 06 |
@@ -336,17 +273,19 @@ seed_examples:
       | 7 | Spotlight: Expert Perspective on AI Guidelines for Employees . . | 29 |
       | 8 | Additional Resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 30 |
     questions_and_answers:
-      - question: What is the primary focus of the first chapter?
+      - question: What is the primary focus of the first chapter discussed in the
+          paragraph?
         answer: The primary focus of the first chapter is 'Trust Is Job Number One
           as Customers Evaluate AI.'
-      - question: Which chapter discusses expert perspective on
+      - question: Which spotlight in the paragraph discusses expert perspective on
           AI guidelines for employees?
-        answer: The chapter discussing expert perspective on AI guidelines for employees
-          is Chapter 7.
+        answer: The spotlight discussing expert perspective on AI guidelines for employees
+          is listed as item 7 in the paragraph.
       - question: What topic is addressed in Chapter 4 according to the provided information?
         answer: Chapter 4 addresses 'Workplace Skills and Policies Are Evolving for
           the AI Era.'
-document_outline: ''
+document_outline: Various publications on using AI with Salesforce to 
+enhance customer relationship management.
 document:
   repo: ''
   commit: ''
