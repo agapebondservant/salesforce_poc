@@ -10,6 +10,8 @@ import shutil
 import pandas
 import data_collection_processor
 from data_collection_processor import DataCollectionProcessor
+import traceback
+from pathlib import Path
 import importlib
 importlib.reload(data_collection_processor)
 
@@ -65,11 +67,12 @@ if __name__ == "__main__":
     data_collector = DataCollectionProcessor()
     
     try:
-
         input_dirs, output_dirs, review_dirs = data_collector.process(
-            f"{Path(__file__).resolve().parents[1]}/resources", 
-            f"{Path(__file__).resolve().parents[1]}/scraped",
-            f"{Path(__file__).resolve().parents[1]}/tables")
+            f"{Path(os.path.abspath('')).resolve().parents[0]}/resources", 
+            f"{Path(os.path.abspath('')).resolve().parents[0]}/scraped",
+            f"{Path(os.path.abspath('')).resolve().parents[0]}/tables",
+            file_extension="pdf"
+        )
 
         for input_dir, output_dir, review_dir in zip(input_dirs, output_dirs, review_dirs):
             processor.process(input_dir, output_dir, review_dir)
