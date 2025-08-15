@@ -1,10 +1,11 @@
-# __import__('pysqlite3')
-# import sys
-# sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 import importlib
 import traceback
 import chromadb
-from processors import ocr_processor, splitter_processor
+import ocr_processor
+import splitter_processor
 import os
 from pathlib import Path
 import shutil
@@ -46,12 +47,22 @@ class VectorDbProcessor:
         print("Initializing Vector DB/LLM settings...")
         self.initialize_db_settings(llm, embed_model, **kwargs)
             
-    def initialize_db_settings(self, llm, embed_model, **kwargs):
+    def initialize_db_settings(self, llm: str, embed_model: str, **kwargs):
         print("Initializing settings for LLM model...")
-        self.llm = llm
+        self.llm = ChatOpenAI(
+            model=llm, 
+            temperature=0.1,
+            api_key=os.getenv('GRANITE_API_KEY'),
+            base_url=os.getenv('GRANITE_API_BASE'),
+        )
             
         print("Initializing embedding model...")
-        self.embed_model = embed_model
+        self.embed_model = OpenAIEmbeddings(
+            api_key=os.getenv('EMBED_API_KEY'),
+            base_url=os.getenv('EMBED_API_BASE'),
+            dimensions=768,
+            model=embed_model,
+        )
         
         print(f"Initializing ChromaDb Client...")
         self.chroma_client = chromadb.HttpClient(host= f"http://{os.getenv('CHROMA_API_BASE')}", settings=Settings(allow_reset=True))
@@ -116,3 +127,15 @@ class VectorDbProcessor:
             print(f"Error loading docs: {e}") 
             
             traceback.print_exc()
+
+if __name__ == "__main__":  
+    
+    source_dir = f"{os.path.expanduser('~')}/{os.getenv('APP_NAME')}/scraped/studentaid"
+    
+    processor = VectorDbProcessor(llm='granite-3-3-8b-instruct',
+                                  embed_model='nomic-embed-text-v1.5',
+                                  collection_name='scholarships',)
+    
+    # processor.load_documents(source_dir=source_dir, collection_name=collection_name) # Loads documents into db index
+
+    print(processor.process(prompt_input="What kinds of scholarships are available for veterans in Kentucky?"))
