@@ -287,7 +287,7 @@ seed_examples:
 document_outline: Various publications on using AI with Salesforce to 
 enhance customer relationship management.
 document:
-  repo: ''
-  commit: ''
+  repo: https://github.com/agapebondservant/salesforce_poc.git
+  commit: cc46cac3fde31c8f518d57e0f9e7c547b3c5e393
   patterns:
-    - ''
+    - "scraped/*.md"
