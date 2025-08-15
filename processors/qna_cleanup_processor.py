@@ -44,7 +44,7 @@ class QnaCleanupProcessor:
         """
         lines = chunk.rstrip().splitlines()
         if chunk_category=="text":
-            lines = ['\n'.join(textwrap.wrap(line,75)) for line in lines]
+            lines = ['\n'.join(textwrap.wrap(line,70)) for line in lines]
         return '\n'.join(lines)
     
     def cleanup_line(self, line) -> str:

@@ -5,55 +5,24 @@ created_by: oawofolu
 seed_examples:
   - context: |-
       By Salesforce Futures
-      Our inaugural issue of this magazine focused on possible futures where AI
-      agents transform how companies connect with their customers. In this issue,
-      we turn to agents in the enterprise and the potential they hold for a
-      wholesale reorganization of work. We invite you to envision a workplace
-      teeming with nextgeneration copilots, autonomous agents, and augmented
-      humans. How does it function? How does it feel for the human employees that
-      work in this environment? And what can we all learn from time-traveling
-      into such a future that we can bring back to improve the questions we ask
-      ourselves today?
-      The pace of AI progress offers one clue as to what might be in store. In
-      May, OpenAI launched GPT 4-omni, whose multi-modal capabilities and
-      flirtatious female voice drew immediate comparisons to the 2013 film Her
-      and its omniscient and overly-familiar personal assistant. Here at
-      Salesforce, The Einstein Enterprise vision is quickly becoming a reality,
-      including the launch of Agentforce, a platform for intelligent agents in
-      service, sales, commerce, and beyond.
-    questions_and_answers:
-      - question: What is the focus of Salesforce Futures' inaugural issue?
-        answer: The inaugural issue of Salesforce Futures focused on possible futures
-          where AI agents transform how companies connect with their customers.
-      - question: What does the current issue of Salesforce Futures explore regarding
-          AI agents?
-        answer: The current issue explores the potential of AI agents for a wholesale
-          reorganization of work within enterprises, envisioning a workplace with
-          next-generation copilots, autonomous agents, and augmented humans.
-      - question: What recent development in AI technology is mentioned as an example
-          of rapid progress?
-        answer: OpenAI's launch of GPT 4-omni in May is cited as an example of rapid
-          AI progress, with its multi-modal capabilities and distinctive voice drawing
-          comparisons to the film Her.
-  - context: |-
-      By Salesforce Futures
-      At Salesforce Futures, our mission requires us not only to anticipate, but
-      also to imagine fleshed-out futures. This allows Salesforce and our
-      customers to identify the choices they might need to make to shape their
-      own destiny. Amara's law says that we overestimate the impact of
-      technological change in the short-term and underestimate it in the long-
-      term. When new technologies like generative AI are first introduced, we
-      apply them narrowly to existing processes, and their impact can seem
-      limited. It's only over a longer time-frame that innovators figure out how
-      to use the capabilities of the new tech to redesign larger systems.
-      To meet this challenge and bring possible futures to life where AI agents
-      are fundamentally changing the shape of work, we use three fictional
-      companies. They're at varying stages of AI transformation, and they operate
-      differently, due to factors like their age, past strategic choices, and the
-      intensity of competition they face. This reflects the reality we see in
-      today's business world. For example, while a few organizations are
-      aggressively preparing for an agent-driven future, others are just
-      beginning their exploration.
+      At Salesforce Futures, our mission requires us not only to anticipate,
+      but also to imagine fleshed-out futures. This allows Salesforce and
+      our customers to identify the choices they might need to make to shape
+      their own destiny. Amara's law says that we overestimate the impact of
+      technological change in the short-term and underestimate it in the
+      long-term. When new technologies like generative AI are first
+      introduced, we apply them narrowly to existing processes, and their
+      impact can seem limited. It's only over a longer time-frame that
+      innovators figure out how to use the capabilities of the new tech to
+      redesign larger systems.
+      To meet this challenge and bring possible futures to life where AI
+      agents are fundamentally changing the shape of work, we use three
+      fictional companies. They're at varying stages of AI transformation,
+      and they operate differently, due to factors like their age, past
+      strategic choices, and the intensity of competition they face. This
+      reflects the reality we see in today's business world. For example,
+      while a few organizations are aggressively preparing for an agent-
+      driven future, others are just beginning their exploration.
     questions_and_answers:
       - question: What is the mission of Salesforce Futures?
         answer: The mission of Salesforce Futures is to anticipate and imagine detailed
@@ -64,7 +33,7 @@ seed_examples:
         answer: According to Amara's Law, new technologies like generative AI are
           initially underestimated in impact as they are applied narrowly to existing
           processes, but their true impact becomes apparent over a longer time-frame
-          when innovators redesign larger systems.
+          when innovators redesign larger systems using their capabilities.
       - question: How does Salesforce Futures illustrate the current business landscape
           regarding AI transformation?
         answer: Salesforce Futures uses three fictional companies at different stages
@@ -73,128 +42,128 @@ seed_examples:
           just starting their exploration.
   - context: |-
       By Salesforce Futures
-      In part this is because the challenges AI brings are not only -drawing on
-      leadership expert Ronald Heifetz -technical ones, relatively easily defined
-      and where expert knowledge exists on how to solve them. Rather, AI is
-      generating more fundamental adaptive challenges, ambiguous and difficult to
-      define, let alone to think about solving.
-      Navigating adaptive challenges requires sophisticated leadership skills,
-      and many pitfalls lie in wait along the way. Our storytelling aims to
-      bridge the gap in imagination, creating a shared understanding that
-      provides a basis for identifying adaptive challenges.
+      In part this is because the challenges AI brings are not only -drawing
+      on leadership expert Ronald Heifetz -technical ones, relatively easily
+      defined and where expert knowledge exists on how to solve them.
+      Rather, AI is generating more fundamental adaptive challenges,
+      ambiguous and difficult to define, let alone to think about solving.
+      Navigating adaptive challenges requires sophisticated leadership
+      skills, and many pitfalls lie in wait along the way. Our storytelling
+      aims to bridge the gap in imagination, creating a shared understanding
+      that provides a basis for identifying adaptive challenges.
       Tech blogger Byrne Hobart has written of how AI 'places a much higher
       premium on clarity and accuracy in internal communications.' We took
       inspiration from Hobart, and the everyday experience of platforms like
       Slack, to imagine a variety of communications artifacts that bring the
       texture of these companies to life. These messages -generated both by
-      humans and machines -are directed through private and public channels to
-      diverse stakeholders. In aggregate, they convey the choices, practices, and
-      culture that make up how each company operates.
+      humans and machines -are directed through private and public channels
+      to diverse stakeholders. In aggregate, they convey the choices,
+      practices, and culture that make up how each company operates.
     questions_and_answers:
       - question: What type of challenges does AI primarily present, according to
-          leadership expert Ronald Heifetz?
+          the text?
         answer: AI primarily presents adaptive challenges, which are ambiguous, difficult
           to define, and require sophisticated leadership skills to navigate.
-      - question: How does the text suggest addressing the challenges posed by AI
-          in communications within companies?
+      - question: How does the text suggest addressing the adaptive challenges of
+          AI?
         answer: The text suggests using storytelling to create a shared understanding
-          of AI's adaptive challenges and imagining various communication artifacts,
-          inspired by platforms like Slack, to convey company choices, practices,
+          and bridge the gap in imagination, providing a basis for identifying and
+          addressing adaptive challenges.
+      - question: What communication elements does the text reference as examples
+          to illustrate company culture and operations?
+        answer: The text references various communication artifacts, such as messages
+          generated by both humans and machines, directed through private and public
+          channels to diverse stakeholders, to convey a company's choices, practices,
           and culture.
-      - question: What role does clarity and accuracy in internal communications play
-          in the context of AI, as mentioned by tech blogger Byrne Hobart?
-        answer: Byrne Hobart emphasizes that AI places a higher premium on clarity
-          and accuracy in internal communications, which inspired the creation of
-          diverse communication artifacts in the text.
   - context: |-
       By Salesforce Futures
-      As you read along, you'll also notice that our companies still operate in a
-      context with human messiness, resistance, and unpredictability. It's easy
-      in depicting futures to ignore and smooth over such realities, what Nick
-      Foster called 'The Future Mundane'. In our futures, just as today, things
-      break, human tensions persist, and much of what surrounds us is not
-      recently-invented and new.
-      Speculations, like fictional companies and the future they inhabit, have a
-      rich history, including at earlier points in the futures lineage of our own
-      team, at Global Business Network, in Wired Magazine's 'Found Objects,' and
-      at Shell Scenarios. But they work best when complemented with some
-      analysis.
-      So, each company's story concludes with a section, 'Unpacking This Future',
-      that pulls together thematic highlights, explores the rationale of the
-      storytelling, and calls out broader implications for business. If you
-      prefer, you're welcome to switch the reading order and unpack each future
-      before you jump into it.
+      As you read along, you'll also notice that our companies still operate
+      in a context with human messiness, resistance, and unpredictability.
+      It's easy in depicting futures to ignore and smooth over such
+      realities, what Nick Foster called 'The Future Mundane'. In our
+      futures, just as today, things break, human tensions persist, and much
+      of what surrounds us is not recently-invented and new.
+      Speculations, like fictional companies and the future they inhabit,
+      have a rich history, including at earlier points in the futures
+      lineage of our own team, at Global Business Network, in Wired
+      Magazine's 'Found Objects,' and at Shell Scenarios. But they work best
+      when complemented with some analysis.
+      So, each company's story concludes with a section, 'Unpacking This
+      Future', that pulls together thematic highlights, explores the
+      rationale of the storytelling, and calls out broader implications for
+      business. If you prefer, you're welcome to switch the reading order
+      and unpack each future before you jump into it.
     questions_and_answers:
       - question: What is the main focus of the companies' futures?
         answer: The main focus is on portraying the human messiness, resistance, and
           unpredictability that persist in these futures, rather than presenting an
           idealized, smooth version.
-      - question: What is the purpose of the 'Unpacking This Future' section in each
-          company's story?
-        answer: The 'Unpacking This Future' section summarizes key themes, explains
-          the reasoning behind the storytelling, and discusses broader business implications.
-      - question: What is the suggested reading approach for the company's future
-          stories?
-        answer: Readers are given the option to either follow the narrative sequence
-          or unpack each future's implications before diving into the story.
+      - question: What is 'The Future Mundane' according to Nick Foster?
+        answer: "'The Future Mundane' refers to the tendency in futuristic depictions
+          to overlook and gloss over the realities of human imperfection, such as
+          things breaking and ongoing tensions."
+      - question: How are speculative company stories enhanced in Salesforce Futures?
+        answer: Each company story is concluded with
+          a section titled 'Unpacking This
+          Future' that explores thematic highlights, rationale, and broader business
+          implications.
   - context: |-
       By Salesforce Futures
       A brief note on terminology: In our previous issue, we addressed the
-      ongoing debate surrounding the term "agents" and its application in AI.
-      Since that issue, AI agents have only become more mainstream. However,
-      you'll observe that each fictional company uses different names for AI
-      entities, reflecting their unique orientations and intentions.
+      ongoing debate surrounding the term "agents" and its application in
+      AI. Since that issue, AI agents have only become more mainstream.
+      However, you'll observe that each fictional company uses different
+      names for AI entities, reflecting their unique orientations and
+      intentions.
       We're confident this issue will give you a richer understanding of AI
-      agents at work in the near future. Bridging the imagination gap between
-      present reality and potential futures is not easy, and not everything we
-      discuss may ultimately come true. That's okay. Our goal is not perfect
-      accuracy, but to catalyze better, more strategic conversations about the
-      adaptive challenges AI agents will surface. So dive in and think hard about
-      how your company might fare in these futures. (Hint, hint, the Closing
-      gives you some pointers.)
-      And, please, let us know your questions, objections, and most of all, the
-      ideas and conversations this issue sparks.
+      agents at work in the near future. Bridging the imagination gap
+      between present reality and potential futures is not easy, and not
+      everything we discuss may ultimately come true. That's okay. Our goal
+      is not perfect accuracy, but to catalyze better, more strategic
+      conversations about the adaptive challenges AI agents will surface. So
+      dive in and think hard about how your company might fare in these
+      futures. (Hint, hint, the Closing gives you some pointers.)
+      And, please, let us know your questions, objections, and most of all,
+      the ideas and conversations this issue sparks.
       The Salesforce Futures Team
     questions_and_answers:
       - question: What is the main focus of the Salesforce Futures issue?
         answer: The main focus is to provide a deeper understanding of AI agents and
           their potential impact on the future, aiming to stimulate strategic discussions
           about the challenges they may pose.
-      - question: Why does the issue mention the varying names for AI entities
-          used by fictional companies?
-        answer: The issue highlights the diverse naming of AI entities to reflect
-          each company's unique perspectives and objectives, emphasizing the adaptability
-          of AI agents.
+      - question: Why does the paragraph mention the varying names for AI entities
+          used by different companies?
+        answer: The paragraph highlights the diverse naming of AI entities to reflect
+          each company's unique perspectives and objectives in AI development.
       - question: What is the ultimate goal of the Salesforce Futures Team in discussing
           AI agents?
-        answer: The team's primary goal is not to ensure perfect accuracy but to encourage
-          better, more strategic conversations about the adaptive challenges AI agents
-          will bring.
+        answer: The team's primary goal is not to predict the future with absolute
+          accuracy, but to encourage thoughtful conversations about the adaptive challenges
+          AI agents might bring.
   - context: |-
       NEW FEATURE L A U N C H
-      The winning feature this week comes from James Shin and our newest Vanner,
-      Alejandra Coles. Alejandra and James cooked up a better interface for our
-      automated inventory management system.
-      - As before, they incorporate computer vision to help track and categorize
-      items, but it just feels so much more intuitive. For example, there is a
-      'Get rid of it' feature that allows customers to sell or donate items they
-      don't want with the press of a button. 👉 Customers are going to love this
-      and I anticipate interest from reselling platforms.
-      Check it out. Run it through its paces. Talk to your customers and their
-      agents. Share feedback. Iterate. Refine. Repeat.
+      The winning feature this week comes from James Shin and our newest
+      Vanner, Alejandra Coles. Alejandra and James cooked up a better
+      interface for our automated inventory management system.
+      - As before, they incorporate computer vision to help track and
+      categorize items, but it just feels so much more intuitive. For
+      example, there is a 'Get rid of it' feature that allows customers to
+      sell or donate items they don't want with the press of a button. 👉
+      Customers are going to love this and I anticipate interest from
+      reselling platforms.
+      Check it out. Run it through its paces. Talk to your customers and
+      their agents. Share feedback. Iterate. Refine. Repeat.
     questions_and_answers:
       - question: Who developed the new feature for the automated inventory management
           system?
         answer: The new feature was developed by James Shin and Alejandra Coles.
-      - question: What is the purpose of the 'Get rid of it' feature in the updated
-          inventory system?
-        answer: The 'Get rid of it' feature allows customers to sell or donate items
-          they no longer want with a single button press.
-      - question: What is the suggested approach for gathering feedback on the new
-          feature?
-        answer: The suggested approach is to run the feature through its paces, talk
-          to customers and their agents, and share feedback for iteration and refinement.
-  
+      - question: What is the main improvement in the updated automated inventory
+          management system?
+        answer: The updated system now has a more intuitive interface, utilizing computer
+          vision for tracking and categorizing items.
+      - question: What is the purpose of the 'Get rid of it' feature in the new system?
+        answer: The 'Get rid of it' feature allows customers to sell or donate unwanted
+          items with a single button press.
   - context: |-
       Glossary: How to Talk About AI
       - Natural Language Processing (NLP) uses machine learning techniques to
@@ -243,8 +212,6 @@ seed_examples:
       the mundane. In 1956, Prof. John McCarthy coined the term 'artificial
       intelligence,' describing a world in which machines could 'solve the kinds
       of problems now reserved for humans.'
-      But in order to move from simple computing to true AI, computers needed
-      three things:
     questions_and_answers:
       - question: What was Paul Otlet's early computing prototype called and what
           was its purpose?
@@ -252,7 +219,7 @@ seed_examples:
           which aimed to enable users to search and browse through millions of interlinked
           documents, images, audio, and video files.
       - question: How does the human brain's function contrast with the premise of
-          computing, as described in the paragraph?
+          computing?
         answer: The human brain is designed to prioritize important information, while
           computing is intended to remember every detail and make it easily accessible.
       - question: When and by whom was the term 'artificial intelligence' coined,
@@ -273,14 +240,13 @@ seed_examples:
       | 7 | Spotlight: Expert Perspective on AI Guidelines for Employees . . | 29 |
       | 8 | Additional Resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 30 |
     questions_and_answers:
-      - question: What is the primary focus of the first chapter discussed in the
-          paragraph?
+      - question: What is the primary focus of the first chapter?
         answer: The primary focus of the first chapter is 'Trust Is Job Number One
           as Customers Evaluate AI.'
-      - question: Which spotlight in the paragraph discusses expert perspective on
+      - question: Which chapter discusses expert perspective on
           AI guidelines for employees?
-        answer: The spotlight discussing expert perspective on AI guidelines for employees
-          is listed as item 7 in the paragraph.
+        answer: The chapter discussing expert perspective on AI guidelines for employees
+          is Chapter 7.
       - question: What topic is addressed in Chapter 4 according to the provided information?
         answer: Chapter 4 addresses 'Workplace Skills and Policies Are Evolving for
           the AI Era.'
@@ -290,4 +256,4 @@ document:
   repo: https://github.com/agapebondservant/salesforce_poc.git
   commit: cc46cac3fde31c8f518d57e0f9e7c547b3c5e393
   patterns:
-    - "scraped/*.md"
+    - 'scraped/*.md'
